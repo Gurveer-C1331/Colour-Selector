@@ -5,3 +5,5 @@ Concepts:
 - Basic Use of Electron Framework
 - Basic Javascript, CSS, HTML Concepts
 - Installing and Using a Package
+
+Created: May 2020
