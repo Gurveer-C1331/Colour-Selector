@@ -5,7 +5,7 @@ The Colour Selector is an application made using the Electron framework to allow
 
 **"a-color-picker" package was used, install as dev dependency**
 
-Concepts:
+Concepts/Skills Applied:
 - Basic Use of Electron Framework
 - Basic Javascript, CSS, HTML Concepts
 - Installing and Using a Package
